@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Cairo', 'Tajawal', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+}
+
+/* Custom smooth gradients and effects */
+.water-gradient {
+  background: radial-gradient(circle at 50% 20%, rgba(14, 165, 233, 0.15) 0%, rgba(2, 132, 199, 0.05) 50%, transparent 80%);
+}
+
+.subtle-mesh {
+  background-image: radial-gradient(rgba(14, 165, 233, 0.1) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+

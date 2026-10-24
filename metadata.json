@@ -1,0 +1,6 @@
+{
+  "name": "مشاريع السقيا - منظمة أبو الأيتام",
+  "description": "صفحة هبوط رسمية لمشاريع السقيا وحفر وصيانة الآبار بالطاقة الشمسية لمنظمة أبو الأيتام لكفالة ورعاية الأيتام بالسودان.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
